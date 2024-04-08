@@ -1,4 +1,12 @@
-### Hi there 👋
+### Well then...
+
+Didn't expect to be found here honestly
+
+I don't do much on here, with the obvious exception being game development
+
+If you notice anything wrong with my games feel free to leave an issue on their github page, although some games are no longer being maintained
+
+Currently, the main one I'm working on is: Sir -1
 
 <!--
 **Soap2953/Soap2953** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
